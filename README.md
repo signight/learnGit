@@ -1,7 +1,4 @@
 # learnGit
-
-
 666
-
 FUCK
-
+6d36bad56f2891d7ef39349af97324c4f5860e91
