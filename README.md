@@ -1,1 +1,3 @@
 # learnGit
+
+FUCK THE WORLD
