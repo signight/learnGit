@@ -1,3 +1,3 @@
 # learnGit
 
-FUCK THE WORLD
+666
